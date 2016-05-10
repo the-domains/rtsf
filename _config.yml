@@ -1,0 +1,28 @@
+name: RTSF
+favicon: null
+layout_spectrum: 0.9835010485257953
+typography_spectrum: 0.4530683688353747
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#B8B42D'
+    - '#697A21'
+    - '#FFFCE8'
+    - '#3E363F'
+    - '#DD403A'
+  brandStrength: 0.013861105544492602
+  lightness: 0.929962137946859
+  saturation: 0.9463981557637453
+  rhythmicContrast: 0.7734491676092148
+purpose: []
